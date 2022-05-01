@@ -54,12 +54,13 @@ def DataStd(data, nlp, stop):
             for word in words:
                 if word in stop:
                     pass
-                elif len(lineStd)==0 or word in ".,!?:;." or  word[0] in "-" or lineStd[-1] in "'-’#":
-                    lineStd = lineStd + word
                 else:
-                    lineStd = lineStd + " " + word
-            result = [stemmer.stem(X.text) for X in nlp(lineStd)]
-            std.write(str(result)+"\n")
+                    word = stemmer.stem(word)
+                    if len(lineStd)==0 or word in ".,!?:;." or  word[0] in "-" or lineStd[-1] in "'-’#":
+                        lineStd = lineStd + word
+                    else:
+                        lineStd = lineStd + " " + word
+            std.write(lineStd)
     std.close()
 
 def noemptyframe(original, min, std):
