@@ -2,7 +2,7 @@ Dataset original à la racine:
 
 OriginalEtiq:			Données étiquetées manuellement en fonction de leur caractère haineux/raciste ou non (en cours)
 OriginalNEF:    		Ensemble des données sans les lignes vide après nettoyage (No Empty Frame)
-OriginalNEFU:    		OriginalNEF sans doublons
+OriginalNEFU:    		OriginalNEF sans doublons + version avec lemmatisation *lem*
 OriginalVerification:		Ensemble des observations des jeux de données pour les données de travail
 
 TweetsOversamplingAfricains:	Ensemble de données brut, nettoyées et standardisées sur la discrimination envers les africains (environs 10 000 tweets)

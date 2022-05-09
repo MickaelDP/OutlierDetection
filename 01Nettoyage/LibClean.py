@@ -63,6 +63,40 @@ def DataStd(data, nlp, stop):
             std.write(lineStd)
     std.close()
 
+def DataLem(data, nlp, stop):
+    """Filtre a l'aide d'une liste de stop words et lemmatise les restes.
+
+    Args:
+        data (fichier): données (1 tweet par ligne)
+        nlp (organisation grammaticale): objet spacy en fonction de la langue
+        stop (liste): liste de stop words
+    """
+    outlem = outmin = str(data.split(".")[0][:-3]) + "lem.txt"
+    lem = open(outlem, 'a')
+    with open(data, 'r') as data:
+        for line in data:
+            # retrait des stop words:
+            lineStop = ""
+            words = decoupeMots(line, nlp)
+            for word in words:
+                if word in stop:
+                    pass
+                else:
+                    if len(lineStop)==0 or word in ".,!?:;." or  word[0] in "-" or lineStop[-1] in "'-’#":
+                        lineStop = lineStop+ word
+                    else:
+                        lineStop = lineStop + " " + word
+            # lemmatisation:
+            listLem = [X.lemma_ for X in nlp(lineStop)]
+            lineLem = ""
+            for word in listLem:
+                if len(lineLem)==0 or word in ".,!?:;." or  word[0] in "-" or lineLem[-1] in "'-’#":
+                    lineLem = lineLem + word
+                else:
+                    lineLem = lineLem + " " + word
+            lem.write(lineLem)
+    lem.close()
+
 def noemptyframe(original, min, std):
     """prend les fichiers créés par les fonctions précédentes afin de retirer dans chacun d'eux les lignes vides de la version nettoyée "*min" afin de conserver une correspondance ligne à ligne
 
