@@ -1,0 +1,483 @@
+beur:0/0.0%
+beurette:0/0.0%
+rabza:0/0.0%
+beureu:0/0.0%
+bicot:0/0.0%
+raton:0/0.0%
+bounioul:0/0.0%
+bougnoule:0/0.0%
+bougnoul:0/0.0%
+racaille:0/0.0%
+crouille:0/0.0%
+blédard:0/0.0%
+métèque:0/0.0%
+arabe de service:13/0.0012%
+sale arabe:6/0.0006%
+arabe voleur:0/0.0%
+arabe pas français:0/0.0%
+arabe étranger:0/0.0%
+grand remplacement:222/0.0204%
+sale noir:4/0.0004%
+négroide:0/0.0%
+congoide:0/0.0%
+bamboula:0/0.0%
+face de pygmé:0/0.0%
+macaque:0/0.0%
+banania:0/0.0%
+nègre:0/0.0%
+négresse:0/0.0%
+noir de service:0/0.0%
+nègre de maison:5/0.0005%
+race inférieur:1/0.0001%
+babouin:0/0.0%
+tsigane:0/0.0%
+tzigane:0/0.0%
+romanichel:0/0.0%
+romanichelle:0/0.0%
+sinté:0/0.0%
+sintée:0/0.0%
+manouche:0/0.0%
+gitan:0/0.0%
+gitane:0/0.0%
+bohémien:0/0.0%
+bohémienne:0/0.0%
+caraque:0/0.0%
+noi:0/0.0%
+manouches:0/0.0%
+yéniches:0/0.0%
+race nomade:0/0.0%
+sale roumaine:0/0.0%
+sale roumain:0/0.0%
+niakoué:0/0.0%
+niakouée:0/0.0%
+niaqué:0/0.0%
+niaquée:0/0.0%
+niaquoué:0/0.0%
+niaquouée:0/0.0%
+chinetoque:0/0.0%
+chinetoc:0/0.0%
+chinetok:0/0.0%
+noich:0/0.0%
+noichi:0/0.0%
+face de citron:0/0.0%
+bridé:0/0.0%
+sale asiat:0/0.0%
+sale chinois:1/0.0001%
+babtou:0/0.0%
+toubab:0/0.0%
+muzz:0/0.0%
+envahisseur musulman:0/0.0%
+immigration islamique:0/0.0%
+islamisation:0/0.0%
+musulman terroriste:0/0.0%
+islam terrorisme:0/0.0%
+danger islam:0/0.0%
+menace islamiste:0/0.0%
+musulman délinquant:0/0.0%
+youpin:0/0.0%
+youpine:0/0.0%
+feuj:0/0.0%
+sale juif:0/0.0%
+sale juive:0/0.0%
+juiverie:0/0.0%
+complot juif:2/0.0002%
+mafia juives:0/0.0%
+hoananas:0/0.0%
+pornographie mémorielle:4/0.0004%
+shoax:0/0.0%
+propagande sioniste:0/0.0%
+juif voleur:0/0.0%
+juif rothschild:0/0.0%
+juif franc-macon:0/0.0%
+juif traitre:0/0.0%
+sous race de juif:0/0.0%
+mécréant:0/0.0%
+kouffar:0/0.0%
+kâffir:0/0.0%
+bigot:0/0.0%
+bigotte:0/0.0%
+grenouille de bénitier:2/0.0002%
+sale catho:0/0.0%
+féministe hystérique:1/0.0001%
+salope:0/0.0%
+pute:0/0.0%
+biatch:0/0.0%
+bitch:0/0.0%
+poufiasse:0/0.0%
+connasse:0/0.0%
+emmerdeuse:0/0.0%
+pétasse:0/0.0%
+salasse:0/0.0%
+grognasse:0/0.0%
+guenon:0/0.0%
+mal baisée:4/0.0004%
+blondasse:0/0.0%
+femme hystérique:0/0.0%
+féministe de service:0/0.0%
+poulette:0/0.0%
+tepu:0/0.0%
+pouffe:0/0.0%
+bonne à rien:4/0.0004%
+chaudasse:0/0.0%
+meuf vulgaire:0/0.0%
+féministe totalitaire:0/0.0%
+grosse chienne:14/0.0013%
+gonzesse:0/0.0%
+sale meuf:0/0.0%
+chienne féministe:0/0.0%
+bobonne:0/0.0%
+pédé:0/0.0%
+pd:0/0.0%
+pédale:0/0.0%
+tapette:0/0.0%
+tarlouze:0/0.0%
+tantouze:0/0.0%
+tafiole:0/0.0%
+fiotte:0/0.0%
+gouine:0/0.0%
+gouinasse:0/0.0%
+camionneuse:0/0.0%
+butch:0/0.0%
+goudou:0/0.0%
+follasse:0/0.0%
+travelo:0/0.0%
+enculé:0/0.0%
+pédéraste:0/0.0%
+lopette:0/0.0%
+broutte minou:0/0.0%
+sale pd:0/0.0%
+sale gay:0/0.0%
+mongo:0/0.0%
+mongol:0/0.0%
+mongolien:0/0.0%
+mongolito:0/0.0%
+gogol:0/0.0%
+attardé:0/0.0%
+espèce d’handicapé:1/0.0001%
+cotorep:0/0.0%
+triso:0/0.0%
+débile mental:9/0.0008%
+OCCUR:293/0.0269%
+Total occurences:293/0.0269%
+beur:2/0.0002%
+beurette:21/0.0019%
+rabza:0/0.0%
+beureu:0/0.0%
+bicot:0/0.0%
+raton:15/0.0014%
+bounioul:0/0.0%
+bougnoule:4/0.0004%
+bougnoul:1/0.0001%
+racaille:219/0.0201%
+crouille:0/0.0%
+blédard:4/0.0004%
+métèque:6/0.0006%
+arabe de service:13/0.0012%
+sale arabe:6/0.0006%
+arabe voleur:0/0.0%
+arabe pas français:0/0.0%
+arabe étranger:0/0.0%
+grand remplacement:222/0.0204%
+sale noir:4/0.0004%
+négroide:0/0.0%
+congoide:0/0.0%
+bamboula:4/0.0004%
+face de pygmé:0/0.0%
+macaque:5/0.0005%
+banania:2/0.0002%
+nègre:53/0.0049%
+négresse:4/0.0004%
+noir de service:0/0.0%
+nègre de maison:5/0.0005%
+race inférieur:1/0.0001%
+babouin:6/0.0006%
+tsigane:0/0.0%
+tzigane:0/0.0%
+romanichel:0/0.0%
+romanichelle:0/0.0%
+sinté:0/0.0%
+sintée:0/0.0%
+manouche:2/0.0002%
+gitan:9/0.0008%
+gitane:1/0.0001%
+bohémien:0/0.0%
+bohémienne:0/0.0%
+caraque:0/0.0%
+noi:7/0.0006%
+manouches:2/0.0002%
+yéniches:0/0.0%
+race nomade:0/0.0%
+sale roumaine:0/0.0%
+sale roumain:0/0.0%
+niakoué:0/0.0%
+niakouée:0/0.0%
+niaqué:0/0.0%
+niaquée:0/0.0%
+niaquoué:0/0.0%
+niaquouée:0/0.0%
+chinetoque:0/0.0%
+chinetoc:0/0.0%
+chinetok:0/0.0%
+noich:1/0.0001%
+noichi:1/0.0001%
+face de citron:0/0.0%
+bridé:1/0.0001%
+sale asiat:0/0.0%
+sale chinois:1/0.0001%
+babtou:13/0.0012%
+toubab:2/0.0002%
+muzz:2/0.0002%
+envahisseur musulman:0/0.0%
+immigration islamique:0/0.0%
+islamisation:3/0.0003%
+musulman terroriste:0/0.0%
+islam terrorisme:0/0.0%
+danger islam:0/0.0%
+menace islamiste:0/0.0%
+musulman délinquant:0/0.0%
+youpin:3/0.0003%
+youpine:0/0.0%
+feuj:3/0.0003%
+sale juif:0/0.0%
+sale juive:0/0.0%
+juiverie:0/0.0%
+complot juif:2/0.0002%
+mafia juives:0/0.0%
+hoananas:0/0.0%
+pornographie mémorielle:4/0.0004%
+shoax:0/0.0%
+propagande sioniste:0/0.0%
+juif voleur:0/0.0%
+juif rothschild:0/0.0%
+juif franc-macon:0/0.0%
+juif traitre:0/0.0%
+sous race de juif:0/0.0%
+mécréant:6/0.0006%
+kouffar:1/0.0001%
+kâffir:0/0.0%
+bigot:3/0.0003%
+bigotte:0/0.0%
+grenouille de bénitier:2/0.0002%
+sale catho:0/0.0%
+féministe hystérique:1/0.0001%
+salope:192/0.0176%
+pute:620/0.0569%
+biatch:2/0.0002%
+bitch:52/0.0048%
+poufiasse:7/0.0006%
+connasse:60/0.0055%
+emmerdeuse:1/0.0001%
+pétasse:52/0.0048%
+salasse:0/0.0%
+grognasse:7/0.0006%
+guenon:0/0.0%
+mal baisée:4/0.0004%
+blondasse:2/0.0002%
+femme hystérique:0/0.0%
+féministe de service:0/0.0%
+poulette:11/0.001%
+tepu:3/0.0003%
+pouffe:4/0.0004%
+bonne à rien:4/0.0004%
+chaudasse:3/0.0003%
+meuf vulgaire:0/0.0%
+féministe totalitaire:0/0.0%
+grosse chienne:14/0.0013%
+gonzesse:6/0.0006%
+sale meuf:0/0.0%
+chienne féministe:0/0.0%
+bobonne:0/0.0%
+pédé:4/0.0004%
+pd:60/0.0055%
+pédale:23/0.0021%
+tapette:12/0.0011%
+tarlouze:2/0.0002%
+tantouze:0/0.0%
+tafiole:1/0.0001%
+fiotte:2/0.0002%
+gouine:1/0.0001%
+gouinasse:0/0.0%
+camionneuse:0/0.0%
+butch:0/0.0%
+goudou:0/0.0%
+follasse:1/0.0001%
+travelo:0/0.0%
+enculé:71/0.0065%
+pédéraste:1/0.0001%
+lopette:2/0.0002%
+broutte minou:0/0.0%
+sale pd:0/0.0%
+sale gay:0/0.0%
+mongo:0/0.0%
+mongol:9/0.0008%
+mongolien:5/0.0005%
+mongolito:0/0.0%
+gogol:3/0.0003%
+attardé:14/0.0013%
+espèce d’handicapé:1/0.0001%
+cotorep:3/0.0003%
+triso:3/0.0003%
+débile mental:9/0.0008%
+OCCUR:1959/0.1799%
+Total occurences:1959/0.1799%
+beur:4/0.0004%
+beurette:34/0.0031%
+rabza:0/0.0%
+beureu:0/0.0%
+bicot:9/0.0008%
+raton:18/0.0017%
+bounioul:0/0.0%
+bougnoule:8/0.0007%
+bougnoul:2/0.0002%
+racaille:263/0.0241%
+crouille:1/0.0001%
+blédard:4/0.0004%
+métèque:8/0.0007%
+arabe de service:13/0.0012%
+sale arabe:6/0.0006%
+arabe voleur:0/0.0%
+arabe pas français:0/0.0%
+arabe étranger:0/0.0%
+grand remplacement:222/0.0204%
+sale noir:4/0.0004%
+négroide:0/0.0%
+congoide:0/0.0%
+bamboula:7/0.0006%
+face de pygmé:0/0.0%
+macaque:9/0.0008%
+banania:7/0.0006%
+nègre:67/0.0062%
+négresse:21/0.0019%
+noir de service:0/0.0%
+nègre de maison:5/0.0005%
+race inférieur:1/0.0001%
+babouin:7/0.0006%
+tsigane:1/0.0001%
+tzigane:0/0.0%
+romanichel:0/0.0%
+romanichelle:0/0.0%
+sinté:0/0.0%
+sintée:0/0.0%
+manouche:2/0.0002%
+gitan:9/0.0008%
+gitane:2/0.0002%
+bohémien:0/0.0%
+bohémienne:1/0.0001%
+caraque:0/0.0%
+noi:16/0.0015%
+manouches:2/0.0002%
+yéniches:0/0.0%
+race nomade:0/0.0%
+sale roumaine:0/0.0%
+sale roumain:0/0.0%
+niakoué:0/0.0%
+niakouée:0/0.0%
+niaqué:0/0.0%
+niaquée:0/0.0%
+niaquoué:0/0.0%
+niaquouée:0/0.0%
+chinetoque:0/0.0%
+chinetoc:0/0.0%
+chinetok:0/0.0%
+noich:1/0.0001%
+noichi:3/0.0003%
+face de citron:0/0.0%
+bridé:2/0.0002%
+sale asiat:0/0.0%
+sale chinois:1/0.0001%
+babtou:19/0.0017%
+toubab:3/0.0003%
+muzz:2/0.0002%
+envahisseur musulman:0/0.0%
+immigration islamique:0/0.0%
+islamisation:11/0.001%
+musulman terroriste:0/0.0%
+islam terrorisme:0/0.0%
+danger islam:0/0.0%
+menace islamiste:0/0.0%
+musulman délinquant:0/0.0%
+youpin:3/0.0003%
+youpine:0/0.0%
+feuj:4/0.0004%
+sale juif:0/0.0%
+sale juive:0/0.0%
+juiverie:2/0.0002%
+complot juif:2/0.0002%
+mafia juives:0/0.0%
+hoananas:0/0.0%
+pornographie mémorielle:4/0.0004%
+shoax:0/0.0%
+propagande sioniste:0/0.0%
+juif voleur:0/0.0%
+juif rothschild:0/0.0%
+juif franc-macon:0/0.0%
+juif traitre:0/0.0%
+sous race de juif:0/0.0%
+mécréant:12/0.0011%
+kouffar:1/0.0001%
+kâffir:0/0.0%
+bigot:9/0.0008%
+bigotte:0/0.0%
+grenouille de bénitier:2/0.0002%
+sale catho:0/0.0%
+féministe hystérique:1/0.0001%
+salope:316/0.029%
+pute:911/0.0836%
+biatch:5/0.0005%
+bitch:86/0.0079%
+poufiasse:11/0.001%
+connasse:109/0.01%
+emmerdeuse:1/0.0001%
+pétasse:67/0.0062%
+salasse:0/0.0%
+grognasse:11/0.001%
+guenon:1/0.0001%
+mal baisée:4/0.0004%
+blondasse:2/0.0002%
+femme hystérique:0/0.0%
+féministe de service:0/0.0%
+poulette:16/0.0015%
+tepu:4/0.0004%
+pouffe:6/0.0006%
+bonne à rien:4/0.0004%
+chaudasse:6/0.0006%
+meuf vulgaire:0/0.0%
+féministe totalitaire:0/0.0%
+grosse chienne:14/0.0013%
+gonzesse:11/0.001%
+sale meuf:0/0.0%
+chienne féministe:0/0.0%
+bobonne:1/0.0001%
+pédé:7/0.0006%
+pd:118/0.0108%
+pédale:29/0.0027%
+tapette:19/0.0017%
+tarlouze:5/0.0005%
+tantouze:0/0.0%
+tafiole:1/0.0001%
+fiotte:4/0.0004%
+gouine:4/0.0004%
+gouinasse:0/0.0%
+camionneuse:0/0.0%
+butch:3/0.0003%
+goudou:0/0.0%
+follasse:5/0.0005%
+travelo:0/0.0%
+enculé:129/0.0118%
+pédéraste:1/0.0001%
+lopette:3/0.0003%
+broutte minou:0/0.0%
+sale pd:0/0.0%
+sale gay:0/0.0%
+mongo:5/0.0005%
+mongol:27/0.0025%
+mongolien:10/0.0009%
+mongolito:0/0.0%
+gogol:4/0.0004%
+attardé:26/0.0024%
+espèce d’handicapé:1/0.0001%
+cotorep:4/0.0004%
+triso:3/0.0003%
+débile mental:9/0.0008%
+OCCUR:2838/0.2606%
+Total occurences:2838/0.2606%
