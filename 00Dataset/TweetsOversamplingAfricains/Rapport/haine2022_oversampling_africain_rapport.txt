@@ -1,0 +1,16 @@
+sale noir:305/4.9618%
+négroide:3/0.0488%
+congoide:21/0.3416%
+bamboula:212/3.4488%
+face de pygmé:0/0.0%
+macaque:691/11.2413%
+métèque:337/5.4823%
+banania:133/2.1637%
+nègre:1168/19.0011%
+négresse:94/1.5292%
+noir de service:83/1.3503%
+nègre de maison:176/2.8632%
+race inférieur:45/0.7321%
+babouin:403/6.556%
+OCCUR:3671/59.7202%
+Total occurences:3671/59.7202%

@@ -1,0 +1,21 @@
+beur:477/4.6509%
+beurette:1/0.0098%
+rabza:12/0.117%
+beureu:0/0.0%
+bicot:82/0.7995%
+raton:389/3.7929%
+bounioul:0/0.0%
+bougnoule:0/0.0%
+bougnoul:445/4.3389%
+racaille:3830/37.344%
+crouille:23/0.2243%
+blédard:36/0.351%
+métèque:94/0.9165%
+arabe de service:865/8.4341%
+sale arabe:181/1.7648%
+arabe voleur:3/0.0293%
+arabe pas français:0/0.0%
+arabe étranger:2/0.0195%
+grand remplacement:2712/26.4431%
+OCCUR:9152/89.2356%
+Total occurences:9152/89.2356%

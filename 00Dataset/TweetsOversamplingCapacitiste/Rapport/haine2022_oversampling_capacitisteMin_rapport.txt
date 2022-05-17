@@ -1,0 +1,12 @@
+mongo:192/1.9185%
+mongol:2822/28.1974%
+mongolien:1/0.01%
+mongolito:1/0.01%
+gogol:2/0.02%
+attardé:2850/28.4772%
+espèce d’handicapé:12/0.1199%
+cotorep:479/4.7862%
+triso:783/7.8237%
+débile mental:497/4.966%
+OCCUR:7639/76.3289%
+Total occurences:7639/76.3289%

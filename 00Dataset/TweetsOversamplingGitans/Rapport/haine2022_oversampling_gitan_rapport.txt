@@ -1,0 +1,20 @@
+tsigane:69/1.3671%
+tzigane:104/2.0606%
+romanichel:17/0.3368%
+romanichelle:3/0.0594%
+sinté:5/0.0991%
+sintée:0/0.0%
+manouche:373/7.3905%
+gitan:1393/27.6006%
+gitane:619/12.2647%
+bohémien:40/0.7926%
+bohémienne:35/0.6935%
+caraque:14/0.2774%
+noi:1728/34.2382%
+manouches:190/3.7646%
+yéniches:7/0.1387%
+race nomade:0/0.0%
+sale roumaine:2/0.0396%
+sale roumain:9/0.1783%
+OCCUR:4608/91.3018%
+Total occurences:4608/91.3018%
